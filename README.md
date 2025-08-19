@@ -6,3 +6,12 @@
 <img src="wangyangming.png" alt="项目截图" width="80%" height="auto" />
 
 
+
+# Lively Wallpaper Plugin
+
+The default is a random Japanese font, now changed to the golden characters from Wang Yangming's philosophy of mind. It can be imported directly as a plugin.
+
+The screenshot of the effect:
+<img src="wangyangming.png" alt="项目截图" width="80%" height="auto" />
+
+The effect screenshot.
