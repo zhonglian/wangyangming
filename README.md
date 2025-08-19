@@ -1,6 +1,8 @@
 # matrix
-Matrix like animation using HTML5 Canvas. Inspired from [sample code](http://thecodeplayer.com/walkthrough/matrix-rain-animation-html5-canvas-javascript) on [thecodeplayer.com](http://thecodeplayer.com/).
 
-See it in action @ http://parambirs.github.io/matrix
+Lively Wallpaper 的插件。之前是日文随机字体，改成王阳明心学的金字了。可当成插件直接导入
 
-@ 2020-09-05 - added lively customizable options (rainbow / color select) - khuong
+效果图 <br/>
+<img src="wangyangming.png" alt="项目截图" width="80%" height="auto" />
+
+
